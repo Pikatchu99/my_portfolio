@@ -1,7 +1,21 @@
 #me {
-    color: #0d6efd;
-    font-family: 'Odibee Sans', cursive;
+    color: #0d6efd !important;
+    font-family: 'Odibee Sans', cursive !important;
 }
+
+
+/* #centre {
+    /*margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+
+
+}
+*/
+
 #modeste {
     font-size: 80px;
 }

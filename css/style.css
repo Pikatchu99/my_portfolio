@@ -829,7 +829,7 @@ figure {
     display: table-cell;
     vertical-align: middle;
     height: 270px;
-    background: red;
+    background: #fff;
     opacity: 0;
     -webkit-transition: 0.3s;
     -o-transition: 0.3s;

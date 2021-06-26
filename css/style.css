@@ -829,7 +829,7 @@ figure {
     display: table-cell;
     vertical-align: middle;
     height: 270px;
-    background: #fff;
+    background: red;
     opacity: 0;
     -webkit-transition: 0.3s;
     -o-transition: 0.3s;
@@ -856,12 +856,12 @@ figure {
 
 @media screen and (max-width: 768px) {
     .work .desc {
-        opacity: 1;
-        background: rgba(255, 255, 255, 0.6);
+        /* opacity: 1;
+        background: rgba(255, 255, 255, 0.6); */
     }
     .work .desc h3 {
-        -webkit-transform: translate3d(0, 0, 0);
-        transform: translate3d(0, 0, 0);
+        /* -webkit-transform: translate3d(0, 0, 0);
+        transform: translate3d(0, 0, 0); */
     }
     .work .desc span {
         -webkit-transform: translate3d(0, 0, 0);
